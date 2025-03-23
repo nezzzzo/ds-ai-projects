@@ -8,7 +8,7 @@
 - fnlwgt: The `fnlwgt` (final weight) variable represents the number of people in the U.S. population that each individual in the dataset corresponds to. It is a weighting factor provided by the U.S. Census Bureau to make statistical estimates more representative of the overall population. 
 
 - education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.
-- education-num: continuous.
+- education-num:  number of years of education an individual has completed.
 - marital-status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.
 - occupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.
 - relationship: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.
